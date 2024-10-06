@@ -1,4 +1,4 @@
-import Nav from "@/components/Nav.vue";
+import Nav from "@/views/Nav.vue";
 import { createRouter, createWebHistory } from 'vue-router';
 import Index from '@/views/index/Index.vue';
 
